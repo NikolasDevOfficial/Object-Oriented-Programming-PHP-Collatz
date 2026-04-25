@@ -1,0 +1,23 @@
+# PHP
+*.swp
+*.swo
+*.bak
+*.tmp
+*.cache
+
+# Logs and debug files
+*.log
+*.xdebug
+*.prof
+
+# VS Code 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+*.suo
+*.ntvs*
+*.user
+*.userosscache
